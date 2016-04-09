@@ -19,10 +19,14 @@ def bonus
       ]
    }
   }
-end
+
   #code your solution here:
-def bonus
-  
+  if epic_tragedy[:montague][:hero][:status] = "alive"
+    epic_tragedy[:montague][:hero][:status].pop && epic_tragedy[:montague][:hero][:status] = "dead"
+  end
+  if epic_tragedy[:capulet][:heroine][:status] = "alive"
+    epic_tragedy[:capulet][:hero][:status].pop && epic_tragedy[:capulet][:hero][:status] = "dead"
+  end
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
