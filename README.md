@@ -131,7 +131,7 @@ The values are the same as described above. Once you get this test passing, you 
 ```ruby
 epic_tragedy = {
    :montague => {
-      :patriarch => {},
+      :patriarch => {:name => "Lord Montague", :age ->"50"},
       :matriarch => {},
       :hero => {},
       :hero_friends => []
