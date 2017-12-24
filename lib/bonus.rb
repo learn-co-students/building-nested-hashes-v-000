@@ -1,8 +1,4 @@
 def bonus
-  # (value)
-#   delete_if { |k,v| v == value }
-# end
-# end
 
   epic_tragedy = {
    :montague => {
