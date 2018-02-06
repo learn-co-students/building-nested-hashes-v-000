@@ -56,7 +56,5 @@ def fourth_challenge
       ]
     }
   }  
-  montague[hero][status]= "dead"
-  capulet[heroine][status]= "dead"
  
 end  
