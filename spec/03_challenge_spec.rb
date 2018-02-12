@@ -2,7 +2,7 @@ require_relative 'spec_helper'
 require_relative '../lib/third_challenge.rb'
 
 describe "#third_challenge" do 
-	it "fills out the Montague character role keys with the key/value pairs describing their attributes" do 
+    it "fills out the Montague character role keys with the key/value pairs describing their attributes" do 
     expect(third_challenge[:montague][:patriarch].keys).to eq([:name, :age])
     expect(third_challenge[:montague][:matriarch].keys).to eq([:name, :age])
     expect(third_challenge[:montague][:hero].keys).to eq([:name, :age, :status])
