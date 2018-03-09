@@ -20,9 +20,13 @@ def bonus
    }
   }
 
-  #code your solution here:
-
-  
+           
+#code your solution here:                                                 
+  epic_tragedy[:montague][:hero][:status] =  #Changing the status of our hero Romeo from "alive" to "dead"
+   "dead"
+epic_tragedy[:capulet][:heroine][:status] = #Changing the status of our Heroine Juliet from "alive" to "dead"
+   "dead"
+  "dead"
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
