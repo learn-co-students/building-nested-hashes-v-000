@@ -1,0 +1,11 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+bonus	lib/bonus.rb	/^def bonus$/;"	f
+first_challenge	lib/first_challenge.rb	/^def first_challenge$/;"	f
+fourth_challenge	lib/fourth_challenge.rb	/^def fourth_challenge$/;"	f
+second_challenge	lib/second_challenge.rb	/^def second_challenge$/;"	f
+third_challenge	lib/third_challenge.rb	/^def third_challenge$/;"	f
