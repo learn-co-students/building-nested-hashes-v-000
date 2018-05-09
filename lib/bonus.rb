@@ -19,8 +19,8 @@ def bonus
       ]
    }
   }
-  epic_tragedy[:montague][:patriarch][:hero][:status] = "dead"#code your solution here:
-  epic_tragedy[]
+  epic_tragedy[:montague][:hero][:status] = "dead"#code your solution here:
+  epic_tragedy[:capulet][:]
      puts epic_tragedy
 
 
