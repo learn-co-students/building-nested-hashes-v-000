@@ -1,3 +1,7 @@
 def first_challenge
-   epic_tragedy = {}
+#crating a nested hash
+   epic_tragedy = {
+     montague: {},
+     capulet: {}
+   }
 end
